@@ -4,13 +4,13 @@ clear
 
 figlet pychat
 echo "Programmed by Anonycodexia"
-
+echo ""
 sleep 1
 echo "What would you like to be ?"
-
+echo ""
 echo "1=> SERVER"
 echo "2=> CLIENT"
-
+echo ""
 echo "Enter your choice number..."
 read like
 
